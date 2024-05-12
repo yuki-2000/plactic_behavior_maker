@@ -1,0 +1,2 @@
+# plactic_behavior_maker
+応力ひずみ線図から降伏応力と塑性ひずみの組を取得するGUIアプリ
